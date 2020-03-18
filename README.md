@@ -1,8 +1,8 @@
 ## What it does.
 
-Salty-Dogs-Galley-Manager-App was created to make additions to the menu as well as deleting and editing menu items and display the online orders that have been received. Orders management on received orders allowing you to show that the order is in progress and completed or cancelled.  This app is a part of our Salty Dogs Galley at https://salty-dogs-galley-customer-app.herokuapp.com/menu which can be used to display menu items/placing orders and paying for the order using Stripe.
+Salty-Dogs-Galley-Manager-App was created to make additions to the menu as well as deleting and editing menu items and display the online orders that have been received. Orders management on received orders allowing you to show that the order is in progress and completed or cancelled.  This app is a part of our Salty Dogs Galley at https://salty-dogs-galley-app.herokuapp.com/ which can be used to display menu items/placing orders and paying for the order using Stripe.
 
-View this app at https://salty-dogs-galley-manager.herokuapp.com/login.
+View this app at https://salty-dogs-management.herokuapp.com/.
 User Name: sdg.manager@hotmail.com
 Password: 1234567
 
